@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"><!-- чтобы видно было navigationDriwerLayout в design-->
+    <item android:title="@string/account_for_navigationDrawerLayout">
+        <menu>
+            <item android:title="@string/account_sign_in" android:id="@+id/signIn" android:icon="@drawable/ic_sign_in"/>
+            <item android:title="@string/account_personal_account" android:id="@+id/personalAccount" android:icon="@drawable/ic_account"/>
+        </menu>
+    </item>
+    <item android:title="@string/settings_for_navigationDrawerLayout">
+        <menu>
+            <item android:title="@string/settings_language" android:id="@+id/language" android:icon="@drawable/ic_language"/>
+            <item android:title="@string/settings_theme" android:id="@+id/theme" android:icon="@drawable/ic_themes"/>
+        </menu>
+    </item>
+
+
+
+</menu>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ProjectForCource</string>
+    <string name="settings_for_navigationDrawerLayout">Настройки</string>
+    <string name="settings_language">Язык</string>
+    <string name="settings_theme">Тема</string>
+    <string name="account_for_navigationDrawerLayout">Аккаунт</string>
+    <string name="account_personal_account">Личный кабинет</string>
+    <string name="account_sign_in">Войти</string>
+    <string name="sign_in_button">Войти в аккаунт</string>
+    <string name="sign_in_tv">Вход в аккаунт</string>
+    <string name="edit_email">Email:</string>
+    <string name="edit_password">Пароль:</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_account_tv">Создать аккаунт</string>
+    <string name="register_account_tv">Регистрация аккаунта</string>
+    <string name="register">Регистрация</string>
+
+    <string name="hint_et_name">Введите имя</string>
+    <string name="hint_et_surname">Введите фамилию</string>
+    <string name="hint_et_phone">+375-ХХ-ХХХХХХХ</string>
+    <string name="email">Email</string>
+
+    <string name="table_layout_posters">Премьеры</string>
+    <string name="table_layout_room">Залы</string>
+
+    <string name="personal_account_button_change_data">Изменить информацию</string>
+    <string name="personal_account_button_save_data">Сохранить информацию</string>
+
+    <string name="personal_account_error_change_phone">Ошибка при сохранении номера</string>
+    <string name="personal_account_error_change_full_name">Ошибка при сохранении имени</string>
+
+
+    <string name="fragment_message_sign_in">Войдите в аккаунт</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
